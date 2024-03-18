@@ -71,6 +71,7 @@ Das ist eine kuratierte Liste. Heißt, ich schaue mir wirklich all eure Empfehlu
 * [gebana](https://www.gebana.com/eu-de/) (Fairtrade, Vorratsportionen von Lebensmitteln wie (Trocken-)Früchten, Nüssen, Getreide, Tee und mehr)
 * [GLS Eberlein](https://gls-eberlein.de/) (Getränke und Lebensmittel)
 * [Lauteracher Feldfrüchte](https://lauteracher.de/shop/) (Linsen, Buchweizen, Getreide, Ölsaaten & Öle, Nudeln, Gewürze)
+* [Kazi Yetu](https://www.kazi-yetu.com/shop/) (Bieten Tee (und bald auch andere Produkte), für die nicht nur faire Löhne an Bauern gezahlt werden, sondern die zudem auch komplett in Tanzania produziert und gepackt werden. Komplette Wertschöpfungskette dort.)
 * [KaffeeShop 24](https://www.kaffeeshop24.de/) (Kaffee, Tee, Schokolade, Pralinen und Süßigkeiten, Zubehör)
 * [Knauf Biohof](https://www.biolandhof-knauf.de/onlineshop/) (Bioland Getriede)
 * [KOMA - Kollektiv Markt](https://koma-kollektivmarkt.org) (Shop für Tee, Seife, Waschmittel, Putzmittel, Wein, Kaffee, Olivenöl, Gewürze)
